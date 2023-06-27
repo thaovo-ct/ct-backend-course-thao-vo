@@ -1,0 +1,5 @@
+{"nAme": "bao", "name": "baoJsonTag", "accountId": 1, "age": 33, "address": {"street": "abc", "ward":"abc ware"}}
+{"naMe": "bao1", "account_id": 2, "age": 33}
+{"name": "hung", "account_id": 3, "age": 45}
+{"name": "hoang", "account_id": 4, "age": 40}
+{"namE": "hung", "account_id": 3, "age": 40}
