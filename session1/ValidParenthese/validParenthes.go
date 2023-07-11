@@ -68,3 +68,17 @@ func main(){
 	s := ")"
 	fmt.Println(isValid(s))
 }
+
+INPUT(byte)     -> DEcode        -> Process   -> Encode         -> OUTPUT(byte)
+io.Reader       json unmarshal                 json marshal         io.Writer
+
+
+
+//check duplicate
+requirement
+todo#1: input from a file
+    read into from file
+
+func ReadFromFile(filename string) ([]int, error) {
+    
+}
