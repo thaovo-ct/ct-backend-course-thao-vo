@@ -19,7 +19,7 @@ import (
 func main() {
 	conf := config.Config{
 		Port:             "8090",
-		MongoURI:         "mongodb+srv://thaovo2962002:KEOFahfvGQyZMR9U@cluster0.qrmk6cu.mongodb.net/?retryWrites=true&w=majority",
+		MongoURI:         "mongodb+srv://thaovo2962002:KEOF@cluster0.qrmk6cu.mongodb.net/?retryWrites=true&w=majority",
 		MongoDB:          "session5",
 		MongoCollImage:   "images",
 		MongoCollUser:    "user",
